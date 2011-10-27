@@ -2,8 +2,8 @@ Welcome to the Zend Framework 1.11 Release!
 
 RELEASE INFORMATION
 ---------------
-Zend Framework 1.11.10 Release ([INSERT REV NUM HERE]).
-Released on <Month> <Day>, <Year>.
+Zend Framework 1.11.11 Release (r24485).
+Released on September 29, 2011.
 
 SECURITY NOTICE FOR 1.11.6
 --------------------------

@@ -13,11 +13,11 @@
   <email>shupp@php.net</email>
   <active>yes</active>
  </lead>
- <date>2011-10-26</date>
- <time>17:34:15</time>
+ <date>2011-10-27</date>
+ <time>11:24:41</time>
  <version>
-  <release>1.11.10</release>
-  <api>1.11.10</api>
+  <release>1.11.11</release>
+  <api>1.11.11</api>
  </version>
  <stability>
   <release>stable</release>
@@ -25,7 +25,7 @@
  </stability>
  <license uri="http://framework.zend.com/license">New BSD License</license>
  <notes>
-* Initial Empower release
+* Upgraded to ZF 1.11.11
  </notes>
  <contents>
   <dir baseinstalldir="/" name="/">
@@ -3968,6 +3968,21 @@
    <license uri="http://framework.zend.com/license">New BSD License</license>
    <notes>
 * Initial Empower release
+   </notes>
+  </release>
+  <release>
+   <version>
+    <release>1.11.11</release>
+    <api>1.11.11</api>
+   </version>
+   <stability>
+    <release>stable</release>
+    <api>stable</api>
+   </stability>
+   <date>2011-10-27</date>
+   <license uri="http://framework.zend.com/license">New BSD License</license>
+   <notes>
+* Upgraded to ZF 1.11.11
    </notes>
   </release>
  </changelog>

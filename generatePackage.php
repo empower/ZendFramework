@@ -27,15 +27,15 @@ $packagexml->setDescription(
 );
 
 $packagexml->setChannel('empower.github.com/pirum');
-$packagexml->setAPIVersion('1.11.10');
-$packagexml->setReleaseVersion('1.11.10');
+$packagexml->setAPIVersion('1.11.11');
+$packagexml->setReleaseVersion('1.11.11');
 
 $packagexml->setReleaseStability('stable');
 
 $packagexml->setAPIStability('stable');
 
 $packagexml->setNotes('
-* Initial Empower release
+* Upgraded to ZF 1.11.11
 ');
 $packagexml->setPackageType('php');
 $packagexml->addRelease();
