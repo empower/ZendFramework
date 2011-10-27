@@ -13,10 +13,11 @@ $packagexml->setOptions(array(
     'simpleoutput'      => true,
     'packagedirectory'  => './',
     'filelistgenerator' => 'file',
-    'ignore'            => array('generatePackage.php'),
+    'ignore'            => array('generatePackage.php', 'temp/'),
     'dir_roles' => array(
         'docs' => 'doc',
         'bin'  => 'script',
+        'Zend' => 'php',
     ),
 ));
 
